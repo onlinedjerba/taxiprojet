@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345519538443",
+    "project_id": "quicktaxi-bb6d5",
+    "storage_bucket": "quicktaxi-bb6d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345519538443:android:c77feb26f5bdc99464e20e",
+        "android_client_info": {
+          "package_name": "com.online.quicktaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo6HVU_Ox6CqlMJcmDXKWvoJc6HQ6PrWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
